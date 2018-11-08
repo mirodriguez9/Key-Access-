@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Log in</title>
+  </head>
+  <body>
+    <div style="text-align: center;">LOG IN</div>
+    <div style="text-align: center;"><br>
+    </div>
+    <div style="text-align: center;">Username: <input name="username" required="required"
+        type="text"></div>
+    <div style="text-align: center;"><br>
+    </div>
+    <div style="text-align: center;">Password: <input name="password" required="required"
+        type="password"></div>
+  </body>
+</html>
